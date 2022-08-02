@@ -100,7 +100,7 @@ body {
   align-items: center;
   border-radius: 8px;
   cursor: pointer;
-  transition: 0.5s;
+  transition: 0.4s;
 }
 
 .cta:hover {
